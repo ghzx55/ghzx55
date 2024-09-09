@@ -1,5 +1,6 @@
 ## Hi there 👋
-![first-github-user's github stats](https://github-readme-stats.vercel.app/api?username=first-github-user)
+
+![Kim Yongbeom's github stats](https://github-readme-stats.vercel.app/api?username=Kim Yongbeom)
 
 <!--
 **ghzx55/ghzx55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
